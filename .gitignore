@@ -1,2 +1,4 @@
-"node_modules/" 
-"node_modules/" 
+node_modules/
+NTUSER.DAT
+*.DAT
+Documents/Week5_Bootstrap_Website
